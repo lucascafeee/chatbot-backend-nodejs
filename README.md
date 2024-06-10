@@ -1,2 +1,0 @@
-# chatbot-backend-golang
-API 
